@@ -88,8 +88,11 @@ body {
 }
 
 .profile-image {
-  height: 350px;
-  max-width: 90%;
+  width: 100%;
+  max-width: 350px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
   border-radius: 15px;
 }
 
